@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Conversor - A Puebliar Antioquia</string>
+    <string name="titulo">Conversor de Moneda</string>
+    <string name="entrada">Valor a convertir</string>
+    <string name="valor">Ingrese un valor</string>
+    <string name="seleccion">Selección de moneda</string>
+    <string name="a"> a </string>
+    <string name="resultado">Calcular</string>
+    <string name="resultado_conversion">Resultado de la conversión</string>
+    <string name="mostrar" />
+
+    <string-array name="primera_lista_monedas">
+        <item></item>
+        <item>Peso colombiano</item>
+        <item>Dólar</item>
+        <item>Euro</item>
+    </string-array>
+
+    <string-array name="segunda_lista_monedas">
+        <item></item>
+        <item>Peso colombiano</item>
+        <item>Dólar</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
